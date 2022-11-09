@@ -7,15 +7,12 @@
 <h3 align="center">Iván García &nbsp;&nbsp; <a href="https://www.linkedin.com/in/ivangarrera/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20me-blue?logo=linkedin" /></a>
 <h3 align="center">Full-Stack Software Engineer at Aurum Engineering GmbH</h3>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="left"> 👨‍💻 Whoami</h2>
 
 - 🌱 I'm a Full-Stack Software Engineer at Aurum Engineering GmbH
 - 💬 Ask me about <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="20"/>, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" />, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20"/> or <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" />
 - 📫 Reach me at:  **ivangarrera [at] gmail [dot] com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ## 🛠 Technologies & tools
 
